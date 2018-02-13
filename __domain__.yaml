@@ -3,7 +3,7 @@ object_type: domain
 version: 1.0
 object:
   attributes:
-    name: COVEA_scaleout
+    name: Service_scaleout
     description: 
     display_name: 
     priority: 8
